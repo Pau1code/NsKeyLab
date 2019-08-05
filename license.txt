@@ -1,1 +1,2 @@
-This is my license file!`
+This is my license file!
+Today, i am perpared to learned git!
